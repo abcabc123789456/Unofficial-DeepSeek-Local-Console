@@ -4,6 +4,8 @@
 
 An unofficial, locally hosted DeepSeek chat console. The browser UI runs on your own machine, while the Node.js server only serves static assets, persists local state, and proxies requests to the DeepSeek API.
 
+The code, UI, and documentation for this project were written entirely with OpenAI Codex.
+
 This project is not affiliated with or endorsed by DeepSeek.
 
 ## Features
