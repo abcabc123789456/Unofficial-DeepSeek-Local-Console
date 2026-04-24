@@ -1,5 +1,7 @@
 # DeepSeek Local Console (Unofficial)
 
+[English](README_EN.md) | 简体中文
+
 一个本地运行的 DeepSeek 对话控制台。前端页面直接在浏览器中使用，后端只负责静态资源、状态持久化和 DeepSeek API 代理请求。
 
 ## 功能
